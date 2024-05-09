@@ -1,6 +1,6 @@
 # FMA-Dataset-For-Auto-Genre-classification
 Capable of automatically categorizing audio files from the FMA dataset into their respective genre folders.
-This document utilizes the dataset provided by the Free Music Archive (FMA), which can be found at FMA GitHub repository. The script is designed for automated genre classification; it organizes music files from the tracks.csv according to their genre, placing each track into the corresponding folder. This organization facilitates subsequent data processing or model training activities.
+This document utilizes the dataset provided by the Free Music Archive (FMA)https://github.com/mdeff/fma, which can be found at FMA GitHub repository. The script is designed for automated genre classification; it organizes music files from the tracks.csv according to their genre, placing each track into the corresponding folder. This organization facilitates subsequent data processing or model training activities.
 
 The FMA dataset is divided into several sizes:
 
